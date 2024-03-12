@@ -1,5 +1,5 @@
 package zimo;
-
+//Vga快速撰写代码
 public class give {
     public static void main(String[] args) {
         int a = 0;
