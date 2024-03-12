@@ -10,3 +10,7 @@
     蜂鸣器实现
 - Vga.v
     VGA显示小车及里程一系列信息
+- cons.xdc
+    开发板端口配置文件
+- SimulatedDevice.bit
+    可运行比特流文件
