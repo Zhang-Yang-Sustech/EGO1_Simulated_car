@@ -1,4 +1,4 @@
-# MIPS_CPU
+# EGO1_Simulated_car
 一个基于EGO1开发板的模拟小车走出迷宫项目
 - dev_top.v
     小车的逻辑控制模块
